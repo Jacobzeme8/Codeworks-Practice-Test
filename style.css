@@ -1,1 +1,15 @@
 /* YOUR STYLES HERE */
+.greetings{
+  color:#ffffff;
+  background-color:#111927 ;
+}
+.secondLine{
+  font-style: italic;
+  justify-content: center;
+  display: flex;
+  color: #ffdb6d;
+  border: 3px solid;
+  border-color: #ffdb6d;
+  padding: 1em;
+  background-color: #1d2531;
+}
